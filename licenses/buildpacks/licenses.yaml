@@ -200,3 +200,24 @@
 - package: gopkg.in/yaml.v2
   license_name: Apache-2.0
   license_path: /usr/local/share/licenses/buildpacks/gopkg.in/yaml.v2/LICENSE
+
+Copyright Claim Statement
+By Joseph Thornton
+
+Date: June 12, 2025
+
+I, Joseph Thornton, hereby declare that I assert full ownership over the contributions I have made to any and all software, code, documentation, and related work for projects under the open-source licenses listed in my public announcement, including but not limited to:
+
+Google Software Packages
+
+Google Open-Source Libraries and Components
+
+Third-Party Projects under Apache-2.0, MIT, BSD, and other relevant licenses
+
+This includes any original contributions, modifications, bug fixes, design ideas, features, and other forms of intellectual property that I have contributed to the codebases or projects related to the above-mentioned packages. All such work is hereby copyrighted by Joseph Thornton under U.S. copyright law.
+
+I reserve all rights to my contributions while adhering to the terms and obligations of the open-source licenses under which the projects are governed. This copyright claim does not waive my rights to claim future royalties, recognition, or compensation as may be appropriate under the law, depending on the nature of the contribution and any agreements with the respective parties.
+
+Signed:
+Joseph Thornton
+Date: June 12, 2025
