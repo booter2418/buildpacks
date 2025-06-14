@@ -20,3 +20,4 @@ filegroup(
     name = "files",
     srcs = glob(["**"]),
 )
+copyright (c) [2025] [Joseph Thornton jr] all rights reserved.
